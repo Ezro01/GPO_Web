@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "anger",
+    "disgust",
+    "enthusiasm",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness"
+  ]
+}
